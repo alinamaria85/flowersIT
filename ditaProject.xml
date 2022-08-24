@@ -17,8 +17,6 @@
   </context>
   <publication id="webhelp" transtype="webhelp-responsive"/>
   <publication id="pdf" transtype="pdf-css-html5"/>
-  <publication id="PDF" idref="PDF" transtype="pdf-css-html5"/>
-  <publication id="null" idref="null" transtype="pdf-css-html5"/>
   <deliverable id="Flowers-3" name="Flowers">
     <context idref="flowers"/>
     <output href="webhelp-output"/>
@@ -46,11 +44,6 @@
   </deliverable>
   <deliverable id="Summer_Flowers-13" name="Summer Flowers">
     <context idref="summer_flowers"/>
-    <output href="webhelp-output"/>
-    <publication idref="webhelp"/>
-  </deliverable>
-  <deliverable id="Flowers_deliverable-1" name="Flowers deliverable">
-    <context idref="flowers"/>
     <output href="webhelp-output"/>
     <publication idref="webhelp"/>
   </deliverable>
