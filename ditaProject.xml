@@ -58,9 +58,4 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable-1" name="Flowers deliverable">
-        <context idref="flowers"/>
-        <output href="PDF-output"/>
-        <publication idref="PDF"/>
-    </deliverable>
 </project>
