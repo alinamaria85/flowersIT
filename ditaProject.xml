@@ -53,7 +53,7 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable-1" name="Flowers deliverable">
+    <deliverable id="Flowers_deliverable-1" name="My Deliverable Updated">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
