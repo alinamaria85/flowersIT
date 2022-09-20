@@ -18,48 +18,53 @@
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
     <publication id="PDF" idref="PDF" transtype="pdf-css-html5"/>
-    <deliverable id="Flowers-4" name="Flowers">
+    <deliverable id="Flowers-3" name="Flowers">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Winter_flowers-5" name="Winter flowers">
+    <deliverable id="Winter_flowers-4" name="Winter flowers">
         <context idref="winter_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="WinterFlowers-6" name="WinterFlowers">
+    <deliverable id="WinterFlowers-5" name="WinterFlowers">
         <context idref="winter_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="SpringFlowers-7" name="SpringFlowers">
+    <deliverable id="SpringFlowers-6" name="SpringFlowers">
         <context idref="spring_flowers"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="test-8" name="test">
+    <deliverable id="test-7" name="test">
         <context idref="spring_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Summer_Flowers-9" name="Summer Flowers">
+    <deliverable id="Summer_Flowers-8" name="Summer Flowers">
         <context idref="summer_flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="flowers_to_pdf-10" name="flowers to pdf">
+    <deliverable id="flowers_to_pdf-9" name="flowers to pdf">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="My_Deliverable_Updated-11" name="My Deliverable Updated">
+    <deliverable id="My_Deliverable_Updated-10" name="My Deliverable Updated">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="abc-12" name="abc">
+    <deliverable id="abc-11" name="abc">
         <context idref="autumn_flowers"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
+    <deliverable id="Flowers_deliverable-12" name="Flowers deliverable">
+        <context idref="flowers"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
@@ -80,13 +85,8 @@
     </deliverable>
     <deliverable id="Flowers_deliverable-19" name="Flowers deliverable">
         <context idref="flowers"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Flowers_deliverable-24" name="Flowers deliverable">
-        <context idref="flowers"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
     </deliverable>
     <deliverable id="Flowers_deliverable-17" name="Flowers deliverable">
         <context idref="flowers"/>
@@ -103,20 +103,20 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable2-21" name="Flowers deliverable2">
+    <deliverable id="Flowers_deliverable2-20" name="Flowers deliverable2">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable-20" name="Flowers deliverable">
+    <deliverable id="Flowers_deliverable-21" name="Flowers deliverable">
         <context idref="flowers"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable-27" name="Flowers deliverable">
+    <deliverable id="Flowers_deliverable-24" name="Flowers deliverable">
         <context idref="flowers"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
     </deliverable>
     <deliverable id="Flowers_deliverable-22" name="Flowers deliverable">
         <context idref="flowers"/>
@@ -128,35 +128,35 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable2-26" name="Flowers deliverable2">
+    <deliverable id="Flowers_deliverable2-25" name="Flowers deliverable2">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable-25" name="Flowers deliverable">
+    <deliverable id="Flowers_deliverable-26" name="Flowers deliverable">
+        <context idref="flowers"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
+    <deliverable id="Flowers_deliverable-27" name="Flowers deliverable">
+        <context idref="flowers"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
+    <deliverable id="Flowers_deliverable2-28" name="Flowers deliverable2">
+        <context idref="flowers"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
+    <deliverable id="Flowers_deliverable-29" name="Flowers deliverable">
         <context idref="flowers"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
     <deliverable id="Flowers_deliverable-32" name="Flowers deliverable">
         <context idref="flowers"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Flowers_deliverable2-29" name="Flowers deliverable2">
-        <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
-    </deliverable>
-    <deliverable id="Flowers_deliverable-28" name="Flowers deliverable">
-        <context idref="flowers"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Flowers_deliverable-37" name="Flowers deliverable">
-        <context idref="flowers"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
     </deliverable>
     <deliverable id="Flowers_deliverable-30" name="Flowers deliverable">
         <context idref="flowers"/>
@@ -168,17 +168,17 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable2-34" name="Flowers deliverable2">
+    <deliverable id="Flowers_deliverable2-33" name="Flowers deliverable2">
         <context idref="flowers"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable-33" name="Flowers deliverable">
+    <deliverable id="Flowers_deliverable-34" name="Flowers deliverable">
         <context idref="flowers"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable-43" name="Flowers deliverable">
+    <deliverable id="Flowers_deliverable-44" name="Flowers deliverable">
         <context idref="flowers"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
@@ -188,7 +188,7 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable-45" name="Flowers deliverable">
+    <deliverable id="Flowers_deliverable-37" name="Flowers deliverable">
         <context idref="flowers"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
@@ -218,7 +218,7 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Flowers_deliverable-44" name="Flowers deliverable">
+    <deliverable id="Flowers_deliverable-43" name="Flowers deliverable">
         <context idref="flowers"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
